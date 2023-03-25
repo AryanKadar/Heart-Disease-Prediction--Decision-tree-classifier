@@ -1,0 +1,2 @@
+Vaccine prediction using logistic regression involves using a statistical model to predict the probability of an individual receiving a vaccine.
+The logistic regression model estimates the probability of an individual receiving a vaccine based on the independent variables. The output of the model is a value is 0 or 1.
